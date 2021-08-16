@@ -110,6 +110,7 @@ a:active{
     background-repeat: no-repeat;
     background-size:100vw auto;
     background-color: hsl(225, 100%, 94%);
+    justify-content: flex-start;
   }
   .card{
     width: 90vw;
