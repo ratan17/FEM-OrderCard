@@ -47,23 +47,27 @@ Users should be able to:
 
 ### Screenshot
 
-![my final result](solution screenshot/FireShot Capture 001 - Frontend Mentor - Order summary card - ratan17.github.io.png "Active States")
+![my final result](screenshot/order-card-screenshot.png "Result Screenshot")
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+😛 I know that you're feeling like if you're looking at the same image again and again 
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/ratan17/FEM-OrderCard)
+- Live Site URL: [live site URL here](https://ratan17.github.io/FEM-OrderCard/)
 
 ## My process
+    Before even starting to code I always try to take a careful look at the design-goal images. While 
+    I'm looking at the design image , subconsciously I get a rough idea about required structure of HTML and
+    what CSS properties would be appropriate for the layout.
 
+**First Things First**
+  Create external css file , link it to the markup
+  then add the required fonts and finally set the font size to body element in external css.
+#### My Approach
+   The tricky part I felt at the beginning were : the background pattern and the pricing container
+   
 ### Built with
 
 - Semantic HTML5 markup
