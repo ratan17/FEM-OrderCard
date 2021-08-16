@@ -23,21 +23,21 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 1.**Desktop Design (1440px)**
     ![desktop design goal image](design/desktop-design.jpg "Desktop Design (1440px)")
     
-    ---
+    ***
     
     
 
 2. **Mobile Design (375px)**<br>
     ![mobile design goal image](design/mobile-design.jpg "Mobile Design (375px)")
         
-    ---
+    ***
     
     
 
 3.**Active States Styles**
     ![active states image](design/active-states.jpg "Active States")
         
-    ---
+    ***
     
     
 ### The challenge
