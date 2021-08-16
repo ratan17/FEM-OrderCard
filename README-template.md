@@ -19,11 +19,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 
 ## Overview
-**TheGoal :**
+**The Goal :**
+1.**Desktop Design**
 ![desktop design goal image](design/desktop-design.jpg "Desktop Design (1440px)")
 
-![mobile design goal image](design/desktop-design.jpg "Mobile Design (375px)")
+2. **Mobile Design**
+![mobile design goal image](design/mobile-design.jpg "Mobile Design (375px)")
 
+3.**Active States Styles**
 ![active states image](design/active-states.jpg "Active States")
 ### The challenge
 
