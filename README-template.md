@@ -16,10 +16,15 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
+**TheGoal :**
+![desktop design goal image](design/desktop-design.jpg "Desktop Design (1440px)")
 
+![mobile design goal image](design/desktop-design.jpg "Mobile Design (375px)")
+
+![active states image](design/active-states.jpg "Active States")
 ### The challenge
 
 Users should be able to:
