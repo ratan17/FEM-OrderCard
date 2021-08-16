@@ -1,0 +1,157 @@
+.attribution {  text-align: center; }
+.attribution a { color: hsl(228, 75%, 45%); }
+
+html, body{
+  height:100%;
+}
+
+/* BODY */
+body{
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 1rem;
+  background: url(../images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size:100vw auto;
+  background-color:hsl(225, 100%, 94%);
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* card container */
+.card{
+  width: 25vw;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.card figure img{
+  width:100%;
+  height:auto;
+  border-radius: 20px 20px 0 0;
+}
+
+/* text container */
+.card .container{
+  padding:2rem 2.5rem;
+  text-align: center;
+}
+
+/* text content */
+.container h3{
+  font-weight: 900;
+}
+
+.container>p{
+  font-weight: 700;
+  color: hsl(224, 23%, 75%);
+  margin:1.5rem 0;
+}
+
+/* SELECTED PLAN CONTAINER */
+.selected-plan{
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 16px;
+  text-align: initial;
+  padding: 1rem;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.selected-plan p{
+  display: inline-block;
+  font-weight: 700;
+  margin: 0.1rem 0 0 1rem;
+}
+
+
+p span{
+  color: hsl(224, 23%, 75%);
+}
+
+button{
+font-weight: 700;
+}
+
+.payment-button{
+  width: 100%;
+  display: block;
+  padding: 0.7rem 0;
+  margin: 1.5rem 0;
+  background-color: hsl(245, 75%, 52%);
+  color: white;
+  border-style: none;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px hsl(224, 23%, 75%);
+}
+
+.btn{
+  font-weight: 700;
+  color: hsl(224, 23%, 55%) ;
+}
+
+/* ACTIVE STATES */
+a:active{
+  color:hsl(245, 75%, 60%);
+}
+
+.payment-button:active{
+  background-color: hsl(245, 75%, 60%);
+}
+
+/* mobile design */
+@media (max-width: 465px){
+  body{
+    margin-top: 10%;
+    background: url(../images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+    background-size:100vw auto;
+    background-color: hsl(225, 100%, 94%);
+  }
+  .card{
+    width: 90vw;
+  }
+
+  .card .container{
+    padding: 2rem 1rem;
+  }
+}
+
+@media (min-width: 465px) and  (max-width: 600px){
+  body{
+    margin-top: 10%;
+    background: url(../images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+    background-size:100vw auto;
+    background-color: hsl(225, 100%, 94%);
+  }
+
+  .card{
+    width: 90vw;
+  }
+
+  .card .container{
+    padding: 2rem 5rem;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1330px){
+  body{
+    margin-top: 10%;
+  }
+  .card{
+    width: 40vw;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 992px){
+  body{
+    margin-top: 10%;
+  }
+  .card{
+    width: 60vw;
+  }
+}
