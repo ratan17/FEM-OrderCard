@@ -23,21 +23,20 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 1.**Desktop Design (1440px)**
     ![desktop design goal image](design/desktop-design.jpg "Desktop Design (1440px)")
     
-    ***
     
     
 
 2. **Mobile Design (375px)**<br>
     ![mobile design goal image](design/mobile-design.jpg "Mobile Design (375px)")
         
-    ***
+
     
     
 
 3.**Active States Styles**
     ![active states image](design/active-states.jpg "Active States")
         
-    ***
+   
     
     
 ### The challenge
@@ -48,7 +47,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![my final result](solution screenshot/FireShot Capture 001 - Frontend Mentor - Order summary card - ratan17.github.io.png "Active States")
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
