@@ -1,12 +1,14 @@
 .attribution {  text-align: center; }
 .attribution a { color: hsl(228, 75%, 45%); }
 
-html, body{
+/* html, body{
   height:100%;
 }
+ */
 
 /* BODY */
 body{
+  height: 100vh;
   font-family: 'Red Hat Display', sans-serif;
   font-size: 1rem;
   background: url(../images/pattern-background-desktop.svg);
