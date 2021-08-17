@@ -1,11 +1,6 @@
 .attribution {  text-align: center; }
 .attribution a { color: hsl(228, 75%, 45%); }
 
-/* html, body{
-  height:100%;
-}
- */
-
 /* BODY */
 body{
   min-height: 100vh;
